@@ -1,0 +1,88 @@
+% Example LaTeX commands to generate a NorthStar justification ps/pdf file
+\documentclass[a4paper, 11pt]{article}
+\oddsidemargin=-0.54cm
+\evensidemargin=-0.54cm
+\topmargin=-1.2cm
+\textwidth=17cm
+\textheight=25cm
+\pagestyle{empty}
+    \usepackage[
+    top    = 3.0cm,
+    bottom = 2.0cm,
+    left   = 2.5cm,
+    right  = 2.2cm]{geometry}
+\begin{document}
+
+\section{Gravitational millilensing as a probe of dark halo substructure}
+%%CDM issues
+%Our current understanding of cosmic structure formation is based on the idea of hierarchical assembly. 
+In the current model of cosmic structure formation, massive halos in the local Universe have grown over time by accreting mass from smaller halos in their vicinity during a period of several billion years. However, some of these low-mass halos temporarily survive in the form of subclumps within the massive halo they fell into. The cold dark matter (CDM) model has been very successful in explaining the large-scale structure of the Universe through such hierarchical assembly. However, it is yet to be confirmed on sub-galactic scales. A generic prediction of the theory is that dwarf galaxies should form within the dark matter subhalos residing in the halos of Milky Way-sized galaxies. This prediction results in a substantial discrepancy between the number of expected dark subhalos and the number of observed dwarf galaxies in the local Universe. About $10\%$ of the total mass of a Milky Way-sized halo at $z = 0$ should be in the form of bound substructures (Gao et al. 2011), greatly outnumbering the observed satellite galaxies around the Milky Way and Andromeda (Klypin et al. 1999, Moore et al. 1999). Therefore, confirmation of the $\Lambda$CDM scenario on this scale requires the existense of large numbers of low-mass dark subhalos, in which star formation has been quenched (Macc\`o et al. 2010). 
+
+%%Role of compound lensing
+Gravitational lensing provides an independent test for the existence of such very faint or completely dark substructures. One can use strongly lensed sources at intermediate redshifts ($z \sim 1$--$2$) to probe the foreground lens galaxy for dark subhalos (Figure 1). This method looks for small-scale surface brightness perturbations in a lensed image which are not replicated in others, and therefore requires high-resolution observations of source images (Zackrisson \& Riehm 2010).
+
+%%Previous detections
+Using optical/near-IR imaging (resolution $\sim 100$\,mas) of Einstein rings with the Hubble Space Telescope and Keck, Vegetti et al. (2010, 2012) were able to detect two dark substructures of mass $10^8$--$10^9 M_\odot$. Curiously, these observations seem to indicate a subhalo mass fraction that is significantly higher than predicted by standard CDM, and possibly also a flatter subhalo mass function slope (Vegetti et al. 2012). Alternatively, there may be other types of dark matter overdensities present within these systems, like primordial black holes or ultracompact minihalos (e.g. Zackrisson et al. 2013). 
+
+By using VLBI to map images of macrolensed radio jets with milliarcsecond or sub-milliarcsecond resolution, dark substructures with masses several orders of magnitude below the HST/Keck detection limits can in principle be probed (e.g. Wambsganss \& Paczynski 1992, Metcalf \& Madau 2001, Zackrisson et al. 2013). Gravitational lensing at this angular scale is commonly referred to as millilensing. However, due to the much smaller linear sizes of typical radio jets ($\sim 1$--$10$ pc at the relevant frequencies) compared to the typical source sizes at optical/near-IR wavelengths ($\sim 1$ kpc), the probability of detecting subhalos in a randomly chosen macrolensed system is much smaller than when optical/near-IR macrolenses are used as targets (Zackrisson et al. 2013). Consequently, no clear-cut detections of gravitational millilensing have so far been made.
+
+%%B1152+199-detection to 2002
+B1152+199 is a strong lensing system, discovered as part of the Cosmic Lens All-Sky Survey (CLASS), consisting of a quasar's radio jet at $z = 1.019$ lensed by a single galaxy at $z = 0.439$ into two images which are 1.56" apart in the sky (Myers et al. 1999). 
+The single-lens model of the system, based on 5\,GHz VLBA maps of the blazar as well as {\it I}- and {\it V}-band HST images revealing the lens galaxy (Rusin et al. 2002), was shown to be insufficient to explain the anomalous curvature in one of the images absent in the other (Figure 3). Metcalf (2002) suggested that the curvature in image B is not an intrinsic feature of the source, but rather due to one (or more) perturber(s) of $M\sim10^5$--$10^7 h^{-1} M_\odot$ on the lens plane and along the line of sight of image B. Reproducing the curvature required lenses with more centrally concentrated mass profiles than CDM subhalos. However, the resolution of the data at 5\,GHz ($\sim3$\,mas where image B is only $\sim15$\,mas long) barely allows further constraints on the mass and inner structure of the perturber(s). 
+
+%%B1152+199-2002 to date
+The preliminary analysis of an archival 5\,GHz data set using the European VLBI Network (Experiment \emph{EJ010} -- PI. \emph{Jackson}) indicates a persisting curvature in image B (Figure 4). Therefore, given the 10-year time difference between the two data sets and the fact that morphological anomalies produced by millilensing of halo substructures in the $\geq 10^4 M_\odot$ mass range remain stationary over hundreds to thousands of years, the (milli)lensing nature of the jet curvature seems to be confirmed. 
+
+Our group also made an attempt to observe the same target at 22\,GHz with the EVN, which would potentially give an angular resolution of $\approx 0.3$\,mas (Experiment \emph{EZ024} -- PI. \emph{Zackrisson}). However, after reducing the data, it was clear that due to lack of proper data from the longest baselines in the array (responsible for smallest angular scales on the map), and the very small intrinsic jet size at such a high frequency, image A (the more extended image) is barely resolved in 22\,GHz maps. Therefore, further attempt to resolve or perform any lens modeling on image B would be futile at this frequency. However, even though the data were not good enough to properly analyse the shape of the lensed images, we could improve our astrometry of the images.
+
+%While the intrinsic size of the jet decreases at higher frequencies --where higher angular resolution can be achieved-- the exact size of the source at any arbitrary frequency is not easily known. However, given the resolved 5\,GHz maps and flux density measurements of the source at various frequencies including the 8.3\,GHz by Myers et al. (1999), jet length is estimated based on the synchrotron lifetime of electrons. The $\approx 0.8$ times larger flux density of each image at 5\,GHz with respect to that at 8.3\,GHz, suggests only a $\approx 0.2$ times decrease in jet length when going from the former frequency to the latter, while the expected angular resolution at 8.3\,GHz (0.7\,mas) is $\approx 4$ times better than that at 5\,GHz. Therefore, the 8.3\,GHz map would allow tighter constraints on the mass and density profile of the lens perturber in the system.
+\section{Proposed observations and technical details}
+
+The goal of the proposed project is to map the B1152+199 system at 8.3GHz with 0.7\,mas resolution to $\bf A)$ confirm the jet curvature presisting in two epochs of 5\,GHz data and $\bf B)$ search for previously unresolved distortions. Since we require the highest resolution and the best imaging fidelity, we request the full EVN+VLBA array avabilable at 3.6\,cm: Wb, Eb, Mc, Nt, On-60, Sh, Ur, Ys, Wz, Hh, Sv, Zc, Bd + VLBA. We request 12 hours of observation time from 04 to 16\,GST. 
+
+%: VLBA is 10 antennas: Sc, Hn, Nl, Fd, La, Kp, Pt,Ov, Br, Mk
+
+%The updated coordinates are image A: $R.A. = 11h55m18.29578s$, $Dec. = +19d39m42.2280s$ and image B: $R.A. = 11h55m18.36199s$, $Dec. = +19d39m40.9826s$ (J2000). 
+We estimate that correlating in the middle of the two lensed images (1.56" apart) using 1\,MHz channel width and 1 second integration time would result in up to 4.76\% coherence loss \emph{for the longest baselines} at the position of the lensed images, due to smearing. We find this acceptable and therefore request one single correlation center between the two images.
+%$R.A. = 11h55m18.328885s$, $Dec. = +19d39m41.6053s$.
+
+We will observe with a cycle of 3\,min on target (between the two lensed images) and 1\,min on the calibrator J1157+1638 (3.06$^\circ$ away from the target) which has VLBA 8.3\,GHz correlated flux density of 200\,mJy on the longest baselines. It will be used for phase-referencing to derive delay, rate and phase corrections which will be transferred to the target visibilites. The expected RMS noise on the baseline Hh-Eb using 1 minute integration and one 16\,MHz subband is 4\,mJy, i.e. an SNR of 50 for this calibrator.
+%($R.A. = 11:57:34.836270$ $Dec. = +16:38:59.65005$) 
+% Using sqrt(940*20)/(0.7*sqrt(2*16MHz*60seconds)) where SEFD(Hh)=940, SEFD(Eb)=20
+% and average VLBI efficiency (2-bit sampling etc.) is 0.7.
+We also plan to observe the bright (0.8\,Jy on longest baselines) and very compact calibrator J1159+2914 (9.6$^\circ$ from target) a few times during the experiment as fringe finder to help correct for the major delay and rate offsets in the correlation process.
+%$R.A. = 11:59:31.833911$ $Dec. = +29:14:43.82687$ 
+
+The spectrum of the source is flat up to 15 GHz and beyond (Figure 2) and Rusin et al. (2002) present 5\,GHz VLBA images with core flux densities of 33\,mJy and 12\,mJy respectively. We expect of order 30\,mJy of correlated flux density from the brightest image at 8.3\,GHz. 
+
+Assuming 20\% of the requested 12h is lost to slewing and fringe finder scans, we expect 432\,min total integration time on target. Assuming 1024\,Mbps, 2\,bit sampling, dual polarisation, 8 subbands and 16\,MHz/subband we estimate the theoretical RMS image noise to be 5.1$\mu$\,Jy/beam using natural weighting\footnote{http://www.evlbi.org/cgi-bin/EVNcalc}. This assumes good weather and all telescopes observing all the time. Even if, given other weighting and non-optimum weather etc., the final map noise is as high as 51\,$\mu$Jy/beam, imaging with dynamic range of 200-650:1 is possible.
+
+%The goal of the proposed project is to map the B1152+199 system at 8.3\,GHz with $\approx 0.7$\,mas resolution to A) confirm the jet bending seen in the Rusin et al. (2002) 5\,GHz VLBA data and B) search for previously unresolved distortions. If such features are detected, this would constitute the first robust detection of gravitational millilensing. A discovery of this type would open up a new window on the small-scale structure of dark matter and allow new tests of the CDM paradigm on subgalactic scales. A non-detection of such dramatic features in the Global VLBI map would still allow an independent confirmation of the jet bending in one image and allow improved constraints on the position, masses and density profiles of the putative substructures in this system.
+
+%\subsection*{Antennae}
+%Since we require the highest resolution and best imaging fidelity, we request the full (14 station) EVN array, including Chinese and Russian antennas, the full VLBA including Arecibo (11 stations), and the two NRAO stations, GBT and Y27.
+
+%\subsection*{Source flux density}
+%The separation of the two images (1.5 arcsec) is marginal for high fidelity imaging with a single correlation centre and 1 second integrations we therefore request two correlation centres at the position of the two images. Rusin et al. (2002) shows that the lensed source has a flat spectrum up to 15\,GHz and beyond and presents 5\,GHz VLBA images with core flux densities of 33 mJy and 17 mJy respectively. We expect 48.5$\pm$0.1 mJy of correlated flux density ({\bf this is the integrated flux density, but isn't the correlated flux density supposed to be the peak in a single EVN beam??'}) from the brightest image at 8.3\,GHz --as reported by Rusin et al. (2002).
+
+%\subsection*{Calibrators}
+%We will observe with a calibration cycle of ? mins on target and ? min on the calibrator J1157+1638 (?) which has VLBA 8-\,GHz correlated flux 200 mJy on longest baselines ({\bf really?! I did not find that!!}). This nearest bright calibrator is 3.06 deg ({\bf NOT in the proposal!}) distant and will be used to align phase between IF’s and reduce the delay-rate space for fringe detection toward the target. On a baseline between Bonn and a 25 m antenna within an atmospheric coherence time of order 1 min the noise rms is 1.5mJy giving an SNR of 20 which is more than sufficient for fringe detection. Phase solutions toward the brighter source will be transferred to the data set for the weaker image. 
+
+%\subsection*{Sensitivity}
+%The theoretical image noise using natural weighting is 5 $\mu Jy$/beam; even if, given other weighting and non-optimum weather, the final map noise is as high as 100$\mu Jy$, images of dynamic range 100 to 300:1 are achievable.
+
+\subsection*{References}
+{\bf Gao} et al. 2011, MNRAS, 410, 2309 $\star$
+{\bf Klypin} et al. 1999, ApJ, 522, 82 $\star$
+{\bf Macci\`o} et al. 2010, MNRAS, 402, 1995 $\star$
+{\bf Metcalf}, R. B., \& Madau, P. 2001, ApJ, 563, 9 $\star$
+{\bf Metcalf}, R. B. 2002, ApJ, 580, 696 $\star$
+{\bf Moore} et al. 1999, ApJ 524, L19 $\star$
+{\bf Myers} et al. 1999, ApJ 117, 2565 $\star$
+{\bf Rusin}, D., et al. 2002, MNRAS, 330, 205 $\star$
+{\bf Vegetti} et al. 2010, MNRAS, 408, 1969 $\star$
+{\bf Vegetti} et al. 2012, Nature, 481, 341 $\star$
+{\bf Wambsganss}, J. \& Paczynski, B. 1992, ApJ, 397, L1 $\star$
+{\bf Zackrisson} E. \& Riehm T. 2010, Advances in Astronomy, vol. 2010, 1 $\star$
+{\bf Zackrisson} et al. 2013, MNRAS, 431, 2172
+\end{document}

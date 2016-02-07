@@ -1,6 +1,7 @@
 # 1. Abstract
+Astronomical observations have shown that black holes exist at two different mass scales – stellar-mass black holes formed from the collapse of dying stars, and so-called _supermassive_ black holes fed by the accretion of gas into the central regions of galaxies. While theoretical mechanisms for the formation of black holes at intermediate mass scales have been proposed, the empirical evidence for such objects has remained scant. However, the potential of exploiting effects due to gravitational lensing – the bending of light by strong gravitational fields – to hunt these objects down has so far been largely unexplored. 
 
-Astronomical observations have shown that black holes exist at two different mass scales -- stellar-mass black holes formed from the collapse of dying stars, and so-called supermassive black holes fed by the accretion of gas into the central regions of galaxies. While theoretical mechanisms for the formation of black holes at intermediate mass scales have been proposed, the empirical evidence for such objects has remained scant. However, the potential of exploiting effects due to gravitational lensing – the bending of light by strong gravitational fields – to hunt these objects down has so far been largely unexplored. Gravitational lensing has already allowed astronomers to find planets outside our solar system, to estimate the masses of galaxies and probe the dark matter of the Universe. By searching for such effects in archives of high-resolution data from radio telescopes, we have recently uncovered what may be the smallest gravitational lens ever detected. Our numerical models suggest that if the peculiar appearance of this radio source is indeed due to gravitational lensing by a foreground object, then that object must have properties very similar to an intermediate-mass black hole. If confirmed, this would not only be the smallest gravitational lens ever discovered, but also the first case of a black hole discovered through gravitational lensing, at any mass scale. 
+Gravitational lensing has already allowed astronomers to find planets outside our solar systems, to estimate the masses of galaxies and probe the dark matter of the Universe. We have singled out a case of such systems compatible with our simulations of gravitationally lensed radio jets and were granted 12 hours of time with the global VLBI array to test our hypothesis. Previous VLBA maps of the gravitationally-lensed quasar in B1152+199 have resulted in a tentative detection of a dark compact substructure in the main lens with mass 1e5-1e7 Msolar, based on the jet curvature seen in one of the two macroimages in this system. We are now in posession of a new set of 3.6 cm observations of the system B1152+199, using the global VLBI array, providing ~4 times better resolution (0.7 mas) than the 6 cm VLBA data to A) confirm the jet curvature and B) search for previously unresolved distortions in the curved jet to provide the first robust detection of gravitational millilensing by dark halo substructure. Our numerical models suggest that if the peculiar appearance of this radio source is indeed due to gravitational lensing by a foreground object, then that object must have properties very similar to an intermediate-mass black hole. If confirmed, this would not only be the smallest gravitational lens ever discovered, but also the first case of a black hole discovered through gravitational lensing, at any mass scale. 
 
 # 2. Gravitational lensing and black holes
 Rays of light do not always follow straight paths. Gravitational lensing is a well-known effect in astronomy, by which overdensities of matter along the line of sight cause a bending in the light from distant light sources. The size of this effect was accurately predicted by Einstein in 1915, and has in the last few decades helped astronomers to detect free-floating exoplanets, to estimate the masses of galaxies and galaxy clusters, to measure cosmological parameters and constrain the nature of dark matter (for a review, see Bartelmann 2010). Figure 1 features a schematic example of a gravitational lensing effect, in which two galaxies happen to lie along the same line of sight. The foreground object causes a curvature of spacetime, which allows light from the background object to reach the observer along multiple paths. This distorts the image of the background galaxy and makes it appear as a ring-like structrure – a so-called Einstein ring.Figure 1. Schematic illustration of the principle behind Einstein rings. The light from a blue background galaxy is curved due to a second, yellow galaxy along the line of sight, making light from the blue galaxy reach the observer along multiple paths. As a result, the observer sees the blue galaxy distorted into a partial ring surrounding the yellow object. The image to the left is a real-life example of the astronomical image of LRG 3-757 (“the cosmic horseshoe”), featuring this type of galaxy-galaxy alignment. In this case, where the gravitational lens is a galaxy, the angle subtended by the Einstein ring in the sky is about one arcsecond (1/3600 of a degree). A lens of lower mass would produce a similar effect but with a much smaller angular diameter of the ring. The angular scale of the Einstein ring depicted in Figure 1 is primarily determined by the mass of the foreground object (the gravitational lens). A galaxy-mass lens gives rise to a ring with a radius of order one arcsecond (1/3600 of a degree). Objects at subgalactic mass scales are expected to give rise to smaller angular separations between the sides of the ring, and current radio interferometers are in principle able to detect resolved ring structures down to 0.1-1 milliarcsecond scales. Even so, Einstein rings of the type depicted in Figure 1 have – until now – not been reported on scales below 0.1 arcseconds. The proposed project revolves around a potential detection of an Einstein ring with an angular radius of just ≈0.5 milliarcseconds – the very first case of its kind. Lensing effects at this scale can be produced either by dark matter structures in the dwarf-galaxy mass range or by intermediate-mass black holes (e.g. Zackrisson & Riehm 2010), but only objects in the latter category are sufficiently compact to produce distinct ring-like features (Zackrisson et al. 2013). If our interpretation is correct, this would then make our target the first-ever detection of a black hole through gravitational lensing. Astronomers already have strong observational evidence for the existence of black holes at two different mass scales (for a review, see Narayan & McClintock 2013): Stellar-mass black holes (5-30 times the mass of the Sun) and supermassive black holes (∼10 6 —10 9 times the mass of the Sun). It has been postulated that intermediate-mass black holes (∼10 2 —10 6 times the mass of the Sun) could form from the collapse of the central regions of star clusters (e.g. Portegies Zwart et al. 2004), from the collapse of very massive stars (e.g. Freese et al. 2010) or from direct collapse of gas clouds in the early Universe (e.g. Yue et al. 2014), but the empirical evidence for such black holes remains controversial (see Kormendy & Ho 2013 for a review). If the mass of the object responsible for the lensing in our target object can be accurately pinned down to lie in the ∼10 2 —10 6 Solar mass range, this would hence have important implications for our understanding of the cosmic mass distribution of black holes.
@@ -18,43 +19,23 @@ The J0626+82 radio source belongs to a class of objects known as active galactic
 
 ## 4.3. Project timeline
 We estimate that it would take about three months of full-time work to apply our computer- based model of gravitational lensing (Zackrisson et al. 2013) to confirm or falsify the gravitational lensing interpretation of J0626+82. Since none of our team members are able drop our current commitments and complete this task on a reasonable timescale, we are hereby applying for funding to hire somebody with a PhD in astronomy to work 100% on a 3- month contract at Uppsala University under the supervision of Erik Zackrisson. If funding is granted, we should be able complete the project early in 2016. There is no shortage of suitable candidates in the astronomical community in Sweden, where many highly qualified researchers are struggling to get by at the postdoc level. 
+
 ## 4.4. Team
 Our team consists of:
-• Erik Zackrisson (Associate Professor at Uppsala University), with ample experience in
-the field of gravitational lens modelling. Erik Zackrisson was recruited by Uppsala
-University in 2015 to take over leadership of the Galaxies and Cosmology research
-group at the Department of Physics and Astronomy after the recent retirement of
-Professor Nils Bergvall.
-• Kaj Wiik (PhD at Tuorla Observatory, Finland, member of the VSOP project), with
-expertise in the processing of space-based very long baseline interferometry data.
-• Tuomas Savolainen (Associate Professor at Mätsehovi Radio Observatory, Finland,
-member of the MOJAVE collaboration), with expertise in the processing of both
-space-based and ground-based very long baseline interferometry data5. References
-Bartelman, M. 2010, Gravitational lensing, Classical and Quantum Gravity, Volume 27,
-233001
-Dodson, R., et al. 2008, The VSOP 5 GHz Active Galactic Nucleus Survey. V. Imaging Results
-for the Remaining 140 Sources, Astrophysical Journal Supplement Series 175, 314
-Freese, K., et al. 2010, Supermassive Dark Stars: Detectable in JWST, Astrophysical Journal,
-716, 1397
-Kormendy, J. Ho, L. C. 2013, Coevolution (Or Not) of Supermassive Black Holes and Host
-Galaxies, Annual Review of Astronomy and Astrophysics, 51, 511
-Lister, M. L., Homan, D. C. 2005, MOJAVE: Monitoring of Jets in Active Galactic Nuclei
-with VLBA Experiments. I. First-Epoch 15 GHz Linear Polarization Images, Astronomical
-Journal, 130, 1389
-Narayan, R., McClintock, J. E. 2013, Observational Evidence for Black Holes, in General
-Relativity and Gravitation: A Centennial Perspective", Editors: A. Ashtekar, B. Berger, J.
-Isenberg and M.A.H. MacCallum, Cambridge University Press (open access link:
-http://arxiv.org/abs/1312.6698)
-Portegies Zwart, S. F., et al. 2004, Formation of massive black holes through runaway
-collisions in dense young star clusters, Nature, 428, 724
-Riehm, T., Zackrisson, E., et al. 2009, Strong Lensing by Subhalos in the Dwarf-galaxy-mass
-Range. II. Detection Probabilities, Astrophysical Journal 700, 1552
-Yue, B., et al. 2014, The brief era of direct collapse black hole formation, Monthly Notices of
-the Royal Astronomical Society, 440, 1263
-Zackrisson, E. et al. 2008, Strong Lensing by Subhalos in the Dwarf Galaxy Mass Range. I.
-Image Separations, Astrophysical Journal 684, 804
-Zackrisson, E. & Riehm, T. 2010, Gravitational Lensing as a Probe of Cold Dark Matter
-Subhalos (invited review), Advances in Astronomy, 478910
-Zackrisson, E., et al. 2013, Hunting for dark halo substructure using submilliarcsecond-scale
-observations of macrolensed radio jets, Monthly Notices of the Royal Astronomical Society
-431, 2172
+• Saghar Asadi (Fourth year PhD student at Stockholm Univeristy), with project title "Gravitational lensing and radio interferometry as a probe of the small-scale structure of dark matter".
+• Erik Zackrisson (Associate Professor at Uppsala University), with ample experience in the field of gravitational lens modelling. Erik Zackrisson was recruited by Uppsala University in 2015 to take over leadership of the Galaxies and Cosmology research group at the Department of Physics and Astronomy after the recent retirement of Professor Nils Bergvall.
+
+# 5. References
+- Bartelman, M. 2010, Gravitational lensing, Classical and Quantum Gravity, Volume 27, 233001
+- Dodson, R., et al. 2008, The VSOP 5 GHz Active Galactic Nucleus Survey. V. Imaging Results for the Remaining 140 Sources, Astrophysical Journal Supplement Series 175, 314
+- Freese, K., et al. 2010, Supermassive Dark Stars: Detectable in JWST, Astrophysical Journal, 716, 1397
+- Kormendy, J. Ho, L. C. 2013, Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies, Annual Review of Astronomy and Astrophysics, 51, 511
+- Lister, M. L., Homan, D. C. 2005, MOJAVE: Monitoring of Jets in Active Galactic Nuclei with VLBA Experiments. I. First-Epoch 15 GHz Linear Polarization Images, Astronomical Journal, 130, 1389
+- Narayan, R., McClintock, J. E. 2013, Observational Evidence for Black Holes, in General Relativity and Gravitation: A Centennial Perspective", Editors: A. Ashtekar, B. Berger, J. Isenberg and M.A.H. MacCallum, Cambridge University Press (open access link: http://arxiv.org/abs/1312.6698)
+- Portegies Zwart, S. F., et al. 2004, Formation of massive black holes through runaway collisions in dense young star clusters, Nature, 428, 724
+- Riehm, T., Zackrisson, E., et al. 2009, Strong Lensing by Subhalos in the Dwarf-galaxy-mass
+- Range. II. Detection Probabilities, Astrophysical Journal 700, 1552
+- Yue, B., et al. 2014, The brief era of direct collapse black hole formation, Monthly Notices of the Royal Astronomical Society, 440, 1263
+- Zackrisson, E. et al. 2008, Strong Lensing by Subhalos in the Dwarf Galaxy Mass Range. I. Image Separations, Astrophysical Journal 684, 804
+- Zackrisson, E. & Riehm, T. 2010, Gravitational Lensing as a Probe of Cold Dark Matter Subhalos (invited review), Advances in Astronomy, 478910
+- Zackrisson, E., et al. 2013, Hunting for dark halo substructure using submilliarcsecond-scale observations of macrolensed radio jets, Monthly Notices of the Royal Astronomical Society 431, 2172
