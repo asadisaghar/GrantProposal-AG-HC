@@ -6,15 +6,7 @@ Gravitational lensing has already allowed astronomers to find planets outside ou
 Rays of light do not always follow straight paths. Gravitational lensing is a well-known effect in astronomy, by which overdensities of matter along the line of sight cause a bending in the light from distant light sources. The size of this effect was accurately predicted by Einstein in 1915, and has in the last few decades helped astronomers to detect free-floating exoplanets, to estimate the masses of galaxies and galaxy clusters, to measure cosmological parameters and constrain the nature of dark matter (for a review, see Bartelmann 2010). Secondary gravitaional lensing effect is also used to probe over densitied inside the primary lens (i,e. galaxies in galaxy clusters or dwarf galaxies in galactic lens systems). Figure 1 features a schematic example of a secondary gravitational lensing effect, in which an overdensity inside the main lens (the galaxy) happens to lie in the line of sight of one of the images made by the main lens. The ovserdensity causes a small-scale perturbation in the spacetime athe the position of one of the images. This distors that lensed image of the source without affecting the other images which also makes it possible to distinguish the secondary lensing effect from the interinsic structure of the source.
 
 
-Hello there!
-
-{:.center}
-![cardinal](file:///home/saas9842/PhD/Formalities/GrantProposal/Figure_lensing_v3.jpg)  
-    __Figure 1 -__ Schematic illustration of gravitational millilensing as a probe of the local overdensity (an interdediate-mass black hole or a dark matter substructure). A foreground galaxy with a dark matter halo produces two images of a background light source (macroimages). Am intermediate-mass black hole located in the dark halo intercepts the path of one of these macroimages and produces a small-scale distortion (millilensing) in its surface brightness distribution. Whereas morphological anomalies intrinsic to the source should be mimicked in both macroimages, millilensing will affect each macroimage differently, and typically turn up just in one image.
-
-.center {
-  text-align: center;
-}
+![__Figure 1 -__ Schematic illustration of gravitational millilensing as a probe of the local overdensity (an interdediate-mass black hole or a dark matter substructure). A foreground galaxy with a dark matter halo produces two images of a background light source (macroimages). Am intermediate-mass black hole located in the dark halo intercepts the path of one of these macroimages and produces a small-scale distortion (millilensing) in its surface brightness distribution. Whereas morphological anomalies intrinsic to the source should be mimicked in both macroimages, millilensing will affect each macroimage differently, and typically turn up just in one image.](file:///home/saas9842/PhD/Formalities/GrantProposal/Figure_lensing_v3.jpg)
 
 The angular scale of the distortion depicted in Figure 1 is primarily determined by the mass of the secondary lens (the black hole).
 
