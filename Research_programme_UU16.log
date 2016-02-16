@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.10)  15 FEB 2016 23:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.10)  16 FEB 2016 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -189,12 +189,6 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -206,56 +200,68 @@ File: Figure-lensing-v3.jpg Graphic file (type jpg)
  <use Figure-lensing-v3.jpg>
 Package pdftex.def Info: Figure-lensing-v3.jpg used on input line 26.
 (pdftex.def)             Requested size: 385.44298pt x 216.81166pt.
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./Figure-lensing-v3.jp
-g>] <figure2tmp.jpg, id=16, 833.1125pt x 629.35126pt>
-File: figure2tmp.jpg Graphic file (type jpg)
- <use figure2tmp.jpg>
-Package pdftex.def Info: figure2tmp.jpg used on input line 47.
-(pdftex.def)             Requested size: 416.55524pt x 314.67485pt.
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 59.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (10.86946pt too wide) in paragraph at lines 32--32
+[]\OT1/cmr/bx/n/14.4 The case of sec-ondary grav-i-ta-tional lens-ing at sub--m
+illiarcsecond
+ []
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+[2 <./Figure-lensing-v3.jpg>]
+<Figure-2002.jpg, id=17, 501.5538pt x 250.0542pt>
+File: Figure-2002.jpg Graphic file (type jpg)
+ <use Figure-2002.jpg>
+Package pdftex.def Info: Figure-2002.jpg used on input line 38.
+(pdftex.def)             Requested size: 376.16443pt x 187.54018pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+<imageA.jpg, id=18, 513.92pt x 513.92pt>
+File: imageA.jpg Graphic file (type jpg)
+ <use imageA.jpg>
+Package pdftex.def Info: imageA.jpg used on input line 51.
+(pdftex.def)             Requested size: 179.87468pt x 179.87468pt.
+
+<imageB.jpg, id=19, 513.92pt x 513.92pt>
+File: imageB.jpg Graphic file (type jpg)
+ <use imageB.jpg>
+Package pdftex.def Info: imageB.jpg used on input line 52.
+(pdftex.def)             Requested size: 179.87468pt x 179.87468pt.
+ [3 <./Figure-2002.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
- [3] [4 <./figure2tmp.jpg>] [5] (./Research_programme_UU16.aux) ) 
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+ [4 <./imageA.jpg> <./imageB.jpg>] [5] (./Research_programme_UU16.aux) ) 
 Here is how much of TeX's memory you used:
- 1991 strings out of 493304
- 28840 string characters out of 6139870
+ 2001 strings out of 493304
+ 28983 string characters out of 6139870
  100709 words of memory out of 5000000
- 5446 multiletter control sequences out of 15000+600000
+ 5454 multiletter control sequences out of 15000+600000
  8243 words of font info for 29 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,23p,2366b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti10.pfb>
-Output written on Research_programme_UU16.pdf (5 pages, 366607 bytes).
+ 38i,6n,23p,2377b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti10.pfb>
+Output written on Research_programme_UU16.pdf (5 pages, 455142 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
