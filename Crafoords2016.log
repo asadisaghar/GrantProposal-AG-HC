@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.10)  17 FEB 2016 10:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.10)  18 FEB 2016 10:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -85,18 +85,18 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (./Crafoords2016.aux)
 \openout1 = `Crafoords2016.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -189,22 +189,28 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+
+Overfull \hbox (5.38446pt too wide) in paragraph at lines 16--16
+[]\OT1/cmr/bx/n/14.4 Hunting for intermediate--mass black-holes us-ing submilli
+arcsecond--
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 18.
+(Font)              <10.95> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              <6> on input line 19.
 <Figure-lensing-v3.jpg, id=1, 1284.8pt x 722.7pt>
 File: Figure-lensing-v3.jpg Graphic file (type jpg)
  <use Figure-lensing-v3.jpg>
-Package pdftex.def Info: Figure-lensing-v3.jpg used on input line 25.
+Package pdftex.def Info: Figure-lensing-v3.jpg used on input line 26.
 (pdftex.def)             Requested size: 385.44298pt x 216.81166pt.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (10.86946pt too wide) in paragraph at lines 33--33
+Overfull \hbox (10.86946pt too wide) in paragraph at lines 34--34
 []\OT1/cmr/bx/n/14.4 The case of sec-ondary grav-i-ta-tional lens-ing at sub--m
 illiarcsecond
  []
@@ -213,7 +219,7 @@ illiarcsecond
 <Figure-2002.jpg, id=17, 501.5538pt x 250.0542pt>
 File: Figure-2002.jpg Graphic file (type jpg)
  <use Figure-2002.jpg>
-Package pdftex.def Info: Figure-2002.jpg used on input line 39.
+Package pdftex.def Info: Figure-2002.jpg used on input line 40.
 (pdftex.def)             Requested size: 376.16443pt x 187.54018pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -225,22 +231,24 @@ Missing character: There is no “ in font cmr10!
 <imageA.jpg, id=18, 513.92pt x 513.92pt>
 File: imageA.jpg Graphic file (type jpg)
  <use imageA.jpg>
-Package pdftex.def Info: imageA.jpg used on input line 52.
+Package pdftex.def Info: imageA.jpg used on input line 53.
 (pdftex.def)             Requested size: 179.87468pt x 179.87468pt.
 
 <imageB.jpg, id=19, 513.92pt x 513.92pt>
 File: imageB.jpg Graphic file (type jpg)
  <use imageB.jpg>
-Package pdftex.def Info: imageB.jpg used on input line 53.
+Package pdftex.def Info: imageB.jpg used on input line 54.
 (pdftex.def)             Requested size: 179.87468pt x 179.87468pt.
- [3 <./Figure-2002.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+ [3 <./Figure-2002.jpg>] [4 <./imageA.jpg> <./imageB.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
- [4 <./imageA.jpg> <./imageB.jpg>] [5] (./Crafoords2016.aux) ) 
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+ [5]
+(./Crafoords2016.aux) ) 
 Here is how much of TeX's memory you used:
  2001 strings out of 493304
  28893 string characters out of 6139870
@@ -249,16 +257,15 @@ Here is how much of TeX's memory you used:
  8243 words of font info for 29 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,23p,1955b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti10.pfb>
-Output written on Crafoords2016.pdf (5 pages, 455256 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Crafoords2016.pdf (5 pages, 456299 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
